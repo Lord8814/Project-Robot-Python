@@ -1,2 +1,2 @@
 # Project-Robot-Python
-Some Python functions that we use to control the arm of a robot powered by 4 motors. 
+Some Python functions that we created during a NSI class project to control the arm of a robot powered by 4 motors.
